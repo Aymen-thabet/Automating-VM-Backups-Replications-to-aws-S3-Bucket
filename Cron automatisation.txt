@@ -1,0 +1,2 @@
+sudo gedit /etc/crontab
+*/2 * * * * root /home/aymen/script.sh
